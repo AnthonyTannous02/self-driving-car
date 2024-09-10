@@ -1,0 +1,4 @@
+numpy==1.25.2
+matplotlib==3.7.2
+kivy==2.2.1
+torch==2.4.1
